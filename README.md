@@ -14,7 +14,7 @@
 # 部分提示
 
 1. web1->RCE
-2. web2->SQL inject
+2. web2->SQL inject（Laravel框架）
 3. web3->反序列化
 4. web5->XSS+SSRF
 5. web7->文件包含原题（[https://www.windylh.com/2018/11/11/hctf2018%20Web%E9%83%A8%E5%88%86Writeup/](https://www.windylh.com/2018/11/11/hctf2018 Web部分Writeup/)）提示：[CVE-2018-12613 phpMyAdmin后台文件包含分析](http://seaii-blog.com/index.php/2018/07/03/84.html)
